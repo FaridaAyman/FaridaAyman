@@ -1,4 +1,5 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Farida Ayman
+
 
 ### 🚀 Turning Data into Solutions | AI & Software Engineering Student
 
