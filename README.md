@@ -6,9 +6,17 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 Turning Data into Solutions | AI & Software Engineering Student
 
 I am a **Computer Science** student driven by a passion for building intelligent systems that solve real-world problems. My journey is fueled by a mix of clean code, mathematical logic, and the endless possibilities of Artificial Intelligence.
+
+---
+
+### 💻 Front-End & Flutter Development
+**Crafting seamless user experiences with modern technologies.** 
+I specialize in building cross-platform mobile applications using **Flutter** and designing responsive web interfaces.
 
 </div>
 
