@@ -10,13 +10,11 @@
 **AI & Software Engineering Student**
 
 I am a **Computer Science** student driven by a passion for building intelligent systems that solve real-world problems. My journey is fueled by a mix of clean code, mathematical logic, and the endless possibilities of Artificial Intelligence.
-
+</div>
 ---
 
 ### 💻 Front-End & Flutter Development
 **Crafting seamless user experiences with modern technologies.**
-
-</div>
 
 ### 🛠 Tech Stack & Skills
 
