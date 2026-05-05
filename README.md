@@ -50,6 +50,6 @@ I am a **Computer Science** student driven by a passion for building intelligent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farida_Ayman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farida-ayman-a63461318/)
 [![GitHub](https://img.shields.io/badge/GitHub-FaridaAyman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaridaAyman)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aymanfarida220@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 </div>
