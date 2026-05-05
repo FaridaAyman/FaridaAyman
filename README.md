@@ -14,7 +14,9 @@ I am a **Computer Science** student driven by a passion for building intelligent
 ---
 
 ### 💻 Front-End & Flutter Development
+
 **Crafting seamless user experiences with modern technologies.**
+---
 
 ### 🛠 Tech Stack & Skills
 
