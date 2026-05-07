@@ -2,45 +2,75 @@
 
 # Hi, I'm Farida Ayman 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Front-End+Developer;Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Front-End+Developer)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Turning Data into Solutions
-**AI & Software Engineering Student**
+### 🚀 Turning Ideas into Interactive Web Experiences
+**Software Engineering Student | Front-End Developer**
 
-I am a **Computer Science** student driven by a passion for building intelligent systems that solve real-world problems. My journey is fueled by a mix of clean code, mathematical logic, and the endless possibilities of Artificial Intelligence.
+I am a Computer Science student passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into clean, interactive interfaces using modern front-end technologies and continuously improving my problem-solving and development skills.
+
 </div>
----
-
-### 💻 Front-End & Flutter Development
-
-**Crafting seamless user experiences with modern technologies.**
----
-
-### 🛠 Tech Stack & Skills
-
-*   **Languages:** Python, C++, SQL.
-*   **Frameworks:** Flutter & Dart (Mobile Development).
-*   **Web Technologies:** Frontend Development (HTML, CSS, JavaScript) & UI/UX principles (Figma).
-*   **AI/ML:** Natural Language Processing (NLP), Convolutional Neural Networks (CNN).
-*   **Concepts:** Data Structures, Algorithms, and System Architecture.
 
 ---
 
-### 🎓 Featured Project: Mobile Health Assistant
-**Bridging the gap between AI and Healthcare.**
+## 💻 Front-End Development
 
-*   Developed a smart AI chatbot using **NLP** and **Python Flask**.
-*   Built the mobile application using **Flutter**.
-*   Integrated **CNN models** for medical image analysis.
+**Crafting responsive and seamless user experiences with modern technologies.**
 
 ---
 
-### 📜 Certifications & Achievements
+## 🛠 Tech Stack & Skills
 
-*   **Problem Solving:** Active participant in **ECPC 2023**.
-*   **Technical Training:** SQL Programming and Network Security (Cisco & IBM).
+### 👩‍💻 Languages
+- JavaScript (ES6+)
+- Python
+- C++
+- SQL
+
+### ⚛️ Front-End Technologies
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+### 🎨 UI/UX & Tools
+- Figma
+- Git & GitHub
+- VS Code
+
+### 📚 Concepts
+- Data Structures & Algorithms
+- REST APIs
+- Component-Based Architecture
+- Problem Solving
+
+---
+
+## 🎓 Featured Project: Mobile Health Assistant
+**Bridging the gap between AI and Healthcare**
+
+- Developed an AI-powered chatbot using Python & Flask.
+- Built a responsive mobile application using Flutter.
+- Integrated CNN models for medical image analysis.
+
+---
+
+## 📜 Certifications & Achievements
+
+- 💡 Active participant in ECPC 2023.
+- 🛡 Technical Training in SQL Programming & Network Security (Cisco & IBM).
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React.js
+- Next.js
+- Front-End Performance Optimization
+- Modern UI/UX Practices
 
 ---
 
