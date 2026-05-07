@@ -85,7 +85,7 @@ I am a Computer Science student passionate about building modern, responsive, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>
 
-<a href="mailto:farida.ayman.work@gmail.com">
+<a href="mailto:aymanfarida220@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
 </a>
 
