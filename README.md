@@ -73,13 +73,20 @@ I am a Computer Science student passionate about building modern, responsive, an
 - Modern UI/UX Practices
 
 ---
-
 <div align="center">
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farida_Ayman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farida-ayman-a63461318/)
-[![GitHub](https://img.shields.io/badge/GitHub-FaridaAyman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaridaAyman)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farida.ayman.work@gmail.com)
+<a href="https://www.linkedin.com/in/farida-ayman-a63461318/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+<a href="https://github.com/FaridaAyman" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</a>
+
+<a href="mailto:farida.ayman.work@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+</a>
 
 </div>
