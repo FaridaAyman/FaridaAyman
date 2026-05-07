@@ -2,7 +2,7 @@
 
 # Hi, I'm Farida Ayman 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Front-End+Developer;Flutter+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Front-End+Developer;Flutter+Developer)](https://git.io/typing-svg)
 
 ---
 
